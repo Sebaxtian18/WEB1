@@ -1,0 +1,5 @@
+Los conndicionales son estructuras que nos permiten tomar una accion bajo una condicion dada (operadores logicos un resultado booleano: true or false).
+Simple: (if): Aplica si y solo si el resultado booleano es verdadero.
+Compuesto: (if, else): Apica cuando el condicional simple no se cumple, es decir cuando es false.
+Anidado: (if, else if, else): Aplica despues del compuesto y evalua una nueva condicion.
+Multiple: (switch): Es un menu de opciones.
