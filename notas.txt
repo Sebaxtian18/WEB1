@@ -3,3 +3,12 @@ Simple: (if): Aplica si y solo si el resultado booleano es verdadero.
 Compuesto: (if, else): Apica cuando el condicional simple no se cumple, es decir cuando es false.
 Anidado: (if, else if, else): Aplica despues del compuesto y evalua una nueva condicion.
 Multiple: (switch): Es un menu de opciones.
+
+Opciones para limpiar las credenciales del cache desde la terminal de comandos y poder enpujar los cambios hacia el repocitorio remoto.
+
+git config --global credentials.helper
+git config --global credentials.helper""
+git config --global credentials.helper ""
+git config --global credential.helper
+git config --global credential.helper""
+git config --global credential.helper ""
