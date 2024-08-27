@@ -1,0 +1,21 @@
+Ciclos - estructuras de repetición - loops
+    Es una linea o bloque de codigo que se va a repetir n cantidad de veces, donde n, puede ser cualquier número y podrá ser reconocido o no por el usuario.
+    Son estructuras que se repiten bajó una condición booleana.
+        *Ciclo -para -> for
+        *Ciclo - mientas -> while
+        *Ciclo - repita -> do while
+    Ciclo - para - (for)
+    -Se aplica solo cuando se sabe la cantidad de veces a repetir.
+    -Esta definido por un inicio de variable, una condición y un incremento.    
+
+
+Ciclo While:
+    -Se aplica cuando se sabe y no se sabe la cantidad de veces a repetir.
+    -Por defecto es un ciclo infinito.
+    - Este definido por un tipo de variable, una condición y un incremento.
+    -Para el ciclo while, la variable de condicion debe de ir fuera del ciclo Ej:
+    let numero = 0;
+    while(false){
+        console.log("")
+    }
+nota: el incremento siempre se define dentro del ciclo en la ultima linea. Si este no se define el ciclo se volvera un ciclo infinito y consumira toda la ram.
