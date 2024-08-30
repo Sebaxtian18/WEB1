@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://wallsdesk.com/wp-content/uploads/2017/01/Deftones-for-desktop.jpg"  />
+  <img height="250" width="100%" src="https://wallsdesk.com/wp-content/uploads/2017/01/Deftones-for-desktop.jpg"  />
 </div>
 
 ###
