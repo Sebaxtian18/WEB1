@@ -1,0 +1,14 @@
+Funciones -> Bloque de código que permite utilizar una estructura donde se necesita (solamente con una definición).
+Una funcion busca la simplificacion, la reutilización y mantenimiento de código.
+
+Dentro de JS tenemos tres funciones:
+1 -> Función tradicional o regular.
+    -Funciónes de expresión => Es una funcion asignada a una variable que se tiene que llamar despues de su definicion
+    -Funcion declarativa => (Reserva un espacio en memoria). La funcion queda guardada dentro del código y es accesible desde cualquier parte. 
+    (Se puede llamar antes de definirse).
+2 -> Función flecha.
+    -Funciónes de expresión.
+2 -> Función anónima.
+
+1 -> Se define una funcion: darle nombre y contenido de código a ejecutar.
+Nota: Las funciones siempre se se definen en la parte superior o inferior del codigo. 
