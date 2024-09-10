@@ -1,0 +1,8 @@
+Estructuras de datos (Java Script)
+1- Arreglos (vectores)
+    Simulacion de datos (almacenamiento) Permite simular una base de datos, permitiendo agregar, modificar, obtener y almacenar datos.
+    Los arreglos se dividen entre =>tamaño y => posición. 
+    Tamaño: El tamaño es la longitud del arreglo.
+    Posición: La posición define el lugar donde estan almacenados los datos. Comienza desde cero y se eleva dependiendo del tamaño del arreglo. 
+2- Objetos
+    Agrupación de información de un mismo elemento.
