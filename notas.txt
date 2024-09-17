@@ -4,5 +4,14 @@ Estructuras de datos (Java Script)
     Los arreglos se dividen entre =>tamaño y => posición. 
     Tamaño: El tamaño es la longitud del arreglo.
     Posición: La posición define el lugar donde estan almacenados los datos. Comienza desde cero y se eleva dependiendo del tamaño del arreglo. 
+    Los arreglos estan asociados a un ciclo for
+        => Recorrido de arreglos: iteración dentro del arreglo por cada elemento: buscar contenido y realizar alguna operacion matematica o booleana.
+        => LLenado de arreglo: iteracion dentro del arreglo por cada elemento: agrega contenido a una posición del arreglo. 
+    Metodos de los arreglos 
+        -push(): metodo que agrega un elemento a la ultima posición del arreglo.
+        -pop(): metodo que elimina el ultimo elemento del arreglo.
+        -shift(): metodo que elimina el elemento en la primera posición del arreglo.
+        -unshift(): metodo que agrega un elemento a la primera posicion del arreglo.
+        -splice(): metodo para eliminar un elemento seleccionado. 
 2- Objetos
     Agrupación de información de un mismo elemento.
