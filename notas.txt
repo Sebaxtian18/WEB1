@@ -12,6 +12,9 @@ Estructuras de datos (Java Script)
         -pop(): metodo que elimina el ultimo elemento del arreglo.
         -shift(): metodo que elimina el elemento en la primera posición del arreglo.
         -unshift(): metodo que agrega un elemento a la primera posicion del arreglo.
-        -splice(): metodo para eliminar un elemento seleccionado. 
+        -splice(): metodo para eliminar un elemento seleccionado. Nota: Entre lso parametros se le expecifica desde donde comienaza a eliminar y cuantos elementos debe eliminar separado por una coma. 
+        Ej: numero.splice(2, 1) Elimina una posición apartir de la posición dos. 
 2- Objetos
     Agrupación de información de un mismo elemento.
+
+    
